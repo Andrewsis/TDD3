@@ -14,7 +14,7 @@ class Program
 
 
         World southernWorld = World.GetInstance();
-        southernWorld.Day = 3555; 
+        southernWorld.Day = 70; 
         southernWorld.Latitude = -33.87;
         southernWorld.City = "Sidney";
 
